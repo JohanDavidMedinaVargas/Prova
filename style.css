@@ -1,0 +1,21 @@
+p.blau{
+    color: blue;
+}
+span.roig{
+    color: red;
+}
+span.rosa{
+    color: rosybrown;
+}
+p.verde{
+    color: green;
+}
+span.euro{
+    font-style: oblique
+}
+span.bold{
+    font-weight: bold;
+}
+span.pequenyo{
+    font-size: small;
+}
